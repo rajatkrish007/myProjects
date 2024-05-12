@@ -3,8 +3,12 @@ nav ul li{
     font-size: 85%;
 }
 
-.first, .second, .third{
-    font-size: 2.8rem;
+.first, .second{
+    font-size: 2.4rem;
+}
+
+.third{
+    font-size: 1.5rem;
 }
 
 #mainCon1{
@@ -25,58 +29,65 @@ nav ul li{
 }
 
 .imgArea img{
-    margin-left: 2%;
-    margin-bottom: 40%;
-    height: 95%;
-    width:95%;
+    margin-top: -10%;
+    margin-left: 7%;
+    margin-bottom: 35%;
+    height: 85%;
+    width:85%;
 }
 
 .aboutMe h2{
     margin-left: -70%;
     font-size: 1.6rem;
     padding: 3%;
-    margin-top: -40%;
-    margin-bottom: 11%;
+    margin-top: -30%;
+    margin-bottom: 7%;
     
 }
 
 .aboutMe h4{
     margin-left: -60%;
-    margin-top: -5%;
+    margin-top: -7%;
     text-align: right;
     font-size: 1.1rem;
-    margin-bottom: 35%;
+    margin-bottom: 20%;
 }
 
 .aboutMe p{
-    font-size: 1.05rem;
+    font-size: 0.90rem;
     margin-top: 3%;
-    margin-left: -90%;
-    margin-right: -55%;
+    margin-left: -117%;
+    margin-right: -75%;
     line-height: 150%;
+    /* text-align: justify; */
+    word-spacing: 50%;
+    padding: 7%;
 }
 
 
 #mainCon3 h2{
-    margin-left: -15%;
+    margin-left: -35%;
     margin-right: -10%;
     font-size: 1.7rem;
     margin-top: -5%;
     text-align: left;
+    /* height: 30vh; */
 }
 
 #mainCon3 p{
     text-align:left;
     margin-top: 17%;
-    font-size: 0.95rem;
-    margin-left: -20%;
-    margin-right: -65%;
+    font-size: 0.90rem;
+    margin-left: -60%;
+    margin-right: -75%;
     line-height: 160%;
+    word-spacing: 50%;
+    padding: 5%;
 }
 
 .blocks{
-    margin-top: -35%;
-    margin-left: 43%;
+    margin-top: -55%;
+    margin-left: 41%;
 }
 
 .image img{
@@ -102,7 +113,7 @@ nav ul li{
 
 .info p{
     margin-top: 5%;
-    margin-bottom: 6%;
+    margin-bottom: 15%;
     margin-left: -32%;
     margin-right: -15%;
     font-size: 0.90rem;
@@ -111,8 +122,8 @@ nav ul li{
 }
 
 #mainCon5 h2{
-    margin-top: 12%;
-    margin-bottom: 15%;
+    margin-top: 35%;
+    margin-bottom: 20%;
     margin-left: 5%;
     font-size: 1.6rem;
 }
@@ -122,17 +133,18 @@ nav ul li{
 }
 
 .cer1 img{
-   height: 135%;
-   width: 95%;
-   margin-left: 1.3%;
+   height: 127%;
+   width: 98%;
+   margin-left: 1%;
    margin-bottom: 5%;
 }
 
 .cer1description{
     font-size: 1rem;
     line-height: 130%;
-    border-radius: 4%;
+    border-radius: 2.5%;
     margin-bottom: 10%;
+    margin-left: 1%;
 }
 
 .certified2{
@@ -140,17 +152,17 @@ nav ul li{
 }
 
 .cer2 img{
-   height: 123%;
-   width: 95%;
-   margin-left: 2%;
-   margin-bottom: 5%;
+   height: 120%;
+   width: 98%;
+   margin-left: 1%;
+   margin-bottom: 7%;
 }
 
 .cer2description{
     padding: 4%;
     font-size: 1rem;
     line-height: 130%;
-    border-radius: 4%;
+    border-radius: 2.5%;
     margin-bottom: 10%;
     margin-left: 1%;
 }
@@ -160,19 +172,19 @@ nav ul li{
 }
 
 .cer3 img{
-    margin-left: 2%;
+   margin-left: 1%;
    margin-bottom: 5%;
-   height: 130%;
-   width: 95%;
+   height: 125%;
+   width: 98%;
 }
 
 .cer3description{
     padding: 4%;
     font-size: 1rem;
     line-height: 130%;
-    border-radius: 4%;
+    border-radius: 2.5%;
     margin-bottom: 10%;
-    margin-left: 1%;
+    margin-left: 0.5%;
 }
 
 .copyright{
