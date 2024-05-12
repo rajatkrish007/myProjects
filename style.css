@@ -45,7 +45,7 @@ a:hover{
 #mainCon1{
     text-align: center;
     background-color: black;
-    height: 70vh;
+    height: 75vh;
 }
 
 
@@ -84,7 +84,7 @@ a:hover{
 }
 
 .aboutMe h2{
-    font-size: 3rem;
+    font-size: 2.6rem;
     font-family: 'Poppins', sans-serif;
     color: #38a422;
     margin-top: 1%;
@@ -93,7 +93,7 @@ a:hover{
 .aboutMe h4{
     margin-top: 4.5%;
     margin-bottom: 3%;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-family:'Poppins', sans-serif;
 }
 
@@ -121,11 +121,11 @@ a:hover{
     font-family: 'Poppins', sans-serif;
 }
 
-.service{
+.skills{
     padding: 7.5rem;
 }
 
-.service p{
+.skills p{
     font-size: 1.03rem;
     text-align: left;
     padding-right: 36%;
@@ -236,7 +236,7 @@ a:hover{
 .cer1 img{
 margin-top: 2%;
 margin-left: 3%;
-height: 90%;
+height: 85%;
 width: 203%;
 border: 1px solid black;
 }
@@ -262,7 +262,7 @@ margin-top: 2.5%;
 .cer2 img{
 margin-top: 5%;
 margin-left: 3%;
-height: 90%;
+height: 85%;
 width: 212%;
 }
 
@@ -287,8 +287,8 @@ margin-bottom: 8%;
 .cer3 img{
 margin-top: 4%;
 margin-left: 3%;
-height: 85%;
-width: 270%;
+height: 83%;
+width: 268%;
 border: 1px solid black;
 }
 
