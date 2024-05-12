@@ -130,7 +130,7 @@ a:hover{
     text-align: left;
     padding-right: 36%;
     margin-top: 3%;
-    text-justify:auto;
+  
 }
 
 .blocks{
@@ -317,6 +317,3 @@ text-justify:inter-word;
 .copyright span{
     margin-left: 3%;
 }
-
-
-
